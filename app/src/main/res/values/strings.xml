@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stock Watcher</string>
+    <string name="textview">TextView</string>
+    <string name="stock_symbol">Stock Symbol</string>
+    <string name="company_name">company name</string>
+    <string name="stock_price">Stock Price</string>
+    <string name="price_change">price change</string>
+    <string name="change_percentage">change percentage</string>
+    <string name="menu_add_stock">menu add stock</string>
+    <string name="stockarrows">stockArrows</string>
+</resources>
